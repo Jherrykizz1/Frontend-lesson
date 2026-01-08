@@ -1,0 +1,51 @@
+<!DOCTYPE Html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> My Curriculum Vitae</title>
+</head>
+<body>
+    <header>
+        <H1> JEREMIAH EYO DANIEL</H1>
+         <ul>
+        <li> Greenwich Gardens Chief Adeola Oyedele Road Mile 12 Lagos</li>
+        <li> Jeremiaheyo141@gmail.com</li>
+        <li> +234-8100588932 </li> 
+        </ul>
+    </header>
+   <main>
+    <h2>Professional Summary</h2>
+    <p> Frontend developer and musician with a decade of sucess leading teams in delivering appropriate technology solutions for desktop and mobile products. </p>
+    <p> Comprehensive knowledge of enterprise architecture, agile methodologies, remote work, cloud services and web-based applications.</p>
+   </main>
+        <section> 
+            <h2> Employment History </H2>
+                <h3> Frontend Developer/ Devops </h3> @ TS Academy 
+                <p>Bauru Sao Paulo </p> 
+                <small> December 2025 - current</small>
+                <Ul> 
+                    <li> Design,build or maintain websites using Laravel,Bootstrap,Vue, React and Wordpress.</li>
+                    <li> Create Script language tools</li>
+                    <li> maintain understanding of current web technologies or programming <br>practices through continuing education, reading and sharing knowledge</li>
+                    <li> Select programing language, design tools, or applications</li>
+                </Ul>
+        </section>
+        <div>
+            <h3> Musician/Keyboardist</h3> @ Zoehousehold Lagos
+            <P> Ample Theater Unilag Guest House</P> 
+            <small> Feb 24 2015 - till current</small>
+            <OL> 
+                <Li> Lead and direct Global Music Team</Li>
+                <li> Create and organise worship flows and stems for worship</li>
+                <li> Availability for ministrations with Lead Pastor Dolapo Lawal</li>
+            </OL>
+        </div>
+
+   <footer>
+    <p> I belive i will add my quota to the grwoth of the organisation as i am open to learning and growth.<br> i am able to work efficiently with or without close supervision and team work.
+    </p> ggggggg
+   </footer>
+    
+</body>
+</html>
